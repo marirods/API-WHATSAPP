@@ -1,0 +1,11 @@
+http://localhost:8080/v1/whatsapp/dadospessoais/filtro/:number
+
+http://localhost:8080/v1/whatsapp/dados/filtro/:number
+
+http://localhost:8080/v1/whatsapp/dadoscontato/filtro/:number
+
+http://localhost:8080/v1/whatsapp/dadosconversa/filtro/:number
+
+http://localhost:8080/v1/whatsapp/conversas/filtro/?name=Ana Maria&number=11955577796
+
+http://localhost:8080/v1/whatsapp/chave/number?name=Ana Maria&number=11955577796&chave=you
